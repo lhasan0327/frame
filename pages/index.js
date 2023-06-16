@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <iframe src="https://staging.damda.com/" width="1440" height="1000" target="_self"></iframe>
+        <iframe src="https://staging.damda.com/star/linhhoang265" width="1440" height="1000" target="_self"></iframe>
       </main>
 
       <footer className={styles.footer}>
